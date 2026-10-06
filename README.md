@@ -1,17 +1,17 @@
-# 🐟 Goofish Sellers & Reviews Scraper: 闲鱼 Xianyu Shop Profiles, Inventory & Feedback (Idlefish)
+# 🐟 Goofish & Xianyu 闲鱼 Scraper: Search, Sellers & Reviews
 
 <div align="center">
 
-[![Available on Apify](https://img.shields.io/badge/Available_on-Apify-28B52A?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller)
+[![Available on Apify](https://img.shields.io/badge/Available_on-Apify-28B52A?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](#)
 [![Success Rate](https://img.shields.io/badge/Success_Rate-99%25+-brightgreen?style=for-the-badge)](#)
 [![Zero Login](https://img.shields.io/badge/Account_Required-None-blue?style=for-the-badge)](#)
-[![Pricing](https://img.shields.io/badge/Pricing-Pay_Per_Result-orange?style=for-the-badge)](#)
+[![Pricing](https://img.shields.io/badge/Pricing-55%25_Lower_Cost-orange?style=for-the-badge)](#)
 [![Free Compute](https://img.shields.io/badge/Compute_Fee-$0.00_Free-brightgreen?style=for-the-badge)](#)
 
-**The most comprehensive, reliable, and cost-effective Goofish (闲鱼 / Xianyu / Idlefish) seller intelligence scraper on Apify. Extract complete seller profile credentials, Zhima Credit (芝麻信用) ratings, full active & sold inventory catalogs, deep specifications, and buyer reviews with real unboxing photos — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
+**The most comprehensive, reliable, and cost-effective Goofish & Idlefish (闲鱼 / Xianyu) all-in-one scraper on Apify. Search live product listings, audit seller store credentials, extract Zhima Credit (芝麻信用) ratings, scrape full active & sold inventory catalogs, and analyze buyer reviews with real unboxing photos — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
 
-[**🚀 Try it Live on Apify**](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller) • [**📖 Documentation**](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller) • [**💬 Support**](https://apify.com/unitbytes/goofish-xianyu-seller-scraper/issues)
+[**🚀 Try it Live on Apify**](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper) • [**📖 Documentation**](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper) • [**💬 Support**](https://apify.com/unitbytes/goofish-scraper/issues)
 
 </div>
 
@@ -31,19 +31,6 @@
   <sub>⚡ <b>1-Click Free Trial:</b> Test live queries using Apify's $5 free monthly credit • No credit card required</sub>
 </p>
 
----
-
-## ⚡ Pre-Configured 1-Click Tasks & Common Use Cases
-
-Skip manual parameter setup. Launch these ready-to-use task presets directly in 1 click or inspect full configuration details:
-
-| Seller Due Diligence / Audit Preset | Description & Target Query | ⚡ Direct Run / Input Page | 📋 Store Task Details |
-| :--- | :--- | :---: | :---: |
-| **Audit Seller Sold History & Clearing Prices on Goofish (闲鱼)** | Extract complete historical sold listings from any Goofish 闲鱼 (Xianyu / Idlefish) seller to analyze sales velocity, real clearing prices, turnover rate, and historical discount margins. | [⚡ Run Task Preset](https://console.apify.com/create-task-from-example/n0QY2SEHPte5OQj4s?fpr=939u3w&fp_sid=gh_goofish_seller) | [📖 View Task Page](https://apify.com/unitbytes/goofish-xianyu-seller-scraper/examples/audit-seller-sold-history-pricing?fpr=939u3w&fp_sid=gh_goofish_seller) |
-| **Export Active Seller Product Catalog from Goofish (闲鱼)** | Scrape all currently active, on-sale product listings from any Goofish 闲鱼 (Xianyu / Idlefish) seller profile with prices, high-res photos, tags, and direct item links. | [⚡ Run Task Preset](https://console.apify.com/create-task-from-example/yUDNZYVzSK8n7Z0tb?fpr=939u3w&fp_sid=gh_goofish_seller) | [📖 View Task Page](https://apify.com/unitbytes/goofish-xianyu-seller-scraper/examples/export-active-seller-catalog?fpr=939u3w&fp_sid=gh_goofish_seller) |
-| **Deep Goofish Seller Catalog & Spec Enrichment** | Deeply enrich Goofish seller listings with full plain-text descriptions, condition ratings, view/want statistics, seller location, and structured specifications dictionaries. | [⚡ Run Task Preset](https://console.apify.com/create-task-from-example/sqcEkFYFsO2upNcZA?fpr=939u3w&fp_sid=gh_goofish_seller) | [📖 View Task Page](https://apify.com/unitbytes/goofish-xianyu-seller-scraper/examples/deep-seller-catalog-specs-enrichment?fpr=939u3w&fp_sid=gh_goofish_seller) |
-| **Seller Credibility, Trust & Zhima Credit Background Check** | Perform instant seller credibility background checks on Goofish (闲鱼 / Idlefish). Extract Zhima credit ratings, real-name verification badges, follower counts, and account age. | [⚡ Run Task Preset](https://console.apify.com/create-task-from-example/sn7CdYApKk031GDXl?fpr=939u3w&fp_sid=gh_goofish_seller) | [📖 View Task Page](https://apify.com/unitbytes/goofish-xianyu-seller-scraper/examples/seller-trust-and-zhima-credit-check?fpr=939u3w&fp_sid=gh_goofish_seller) |
-| **Audit Goofish Seller Buyer Reviews & Rating Reputation** | Scrape comprehensive buyer feedback and rating reviews for any Goofish (闲鱼 / Xianyu) seller store. Extract buyer nicknames, review text, ratings, and purchase timestamps. | [⚡ Run Task Preset](https://console.apify.com/create-task-from-example/H9ObSfEwu01ChggL1?fpr=939u3w&fp_sid=gh_goofish_seller) | [📖 View Task Page](https://apify.com/unitbytes/goofish-xianyu-seller-scraper/examples/audit-seller-buyer-reviews-reputation?fpr=939u3w&fp_sid=gh_goofish_seller) |
 ---
 
 ## 📖 Overview
@@ -81,7 +68,7 @@ However, gathering seller background intelligence, inventory history, and buyer 
       <span style="color:#64748B;font-size:11px">Zero-login search engine</span>
     </td>
     <td style="padding:10px 12px;border:1px solid #E2E8F0;background:#FFF4ED;vertical-align:top;width:20%">
-      <span style="white-space:nowrap">⭐ <b><a href="https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#C2410C;text-decoration:none;font-size:13px">Goofish Sellers</a></b></span><br><span style="color:#EA580C;font-size:11px;font-weight:700">📍 You are here</span><br>
+      <span style="white-space:nowrap">⭐ <b><a href="https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=ecosystem" style="color:#C2410C;text-decoration:none;font-size:13px">Goofish Sellers</a></b></span><br><span style="color:#EA580C;font-size:11px;font-weight:700">📍 You are here</span><br>
       <span style="color:#64748B;font-size:11px">Zhima credit & reviews</span>
     </td>
   </tr>
@@ -89,28 +76,59 @@ However, gathering seller background intelligence, inventory history, and buyer 
 
 ---
 
-## 🌟 Why Choose This Scraper? (Marketplace Comparison)
+## 🌟 Why Choose This Scraper? (Head-to-Head Marketplace Comparison)
 
-| Feature / Metric | Other Scrapers / Alternatives | UnitBytes Goofish Sellers & Reviews Scraper |
+Unlike alternative Goofish scrapers that only extract shallow preview cards with broken CSV exports, **UnitBytes** extracts deep technical specifications, standardized condition grades, and verified unboxing reviews in clean, Excel-ready tables — at **more than 50% lower cost**.
+
+| Feature / Metric | Other Goofish Scrapers (e.g. Zen Studio) | ⚡ UnitBytes Goofish & Idlefish Scraper |
 | :--- | :--- | :--- |
-| **Product Listing Price** | $0.00899 / item (~$9.00 per 1k) | 💰 **$0.0035 / item (Save 60%!)** |
-| **Buyer Review Price** | $0.001 / review | 💰 **$0.001 / review (Best value)** |
-| **Server Compute Fees** | Billed for platform compute RAM/time | 🆓 **$0.00 (Zero compute fees)** |
-| **Item Link Auto-Resolution** | User must manually find seller ID | ✅ **Auto-resolves seller from product URLs & mobile deeplinks** |
-| **Listing Extraction Depth** | Summary cards only | 🚀 **Dual Modes (`summary` fast catalog vs `full` 150+ field specs & condition)** |
-| **Product Specifications** | Raw unstructured text or missing | 💎 **Structured Key-Value dictionary (`specs` brand, model, edition)** |
-| **Physical Condition Grade** | Omitted or raw code | 💎 **Standardized grades (`全新` Brand New, `99新`, `95新`, etc.)** |
-| **Status Filter** | Mixed inventory | 🎯 **Filter by `all`, `onsale` (active), or `sold` (historical sales velocity)** |
-| **Buyer Review Unboxing Media** | Text only / missing | 📸 **Full HD buyer unboxing photos (`reviewImages`)** |
-| **Review Sentiment Filtering** | None | 🔍 **Isolate disputes (`negative_only`), praises, or photo reviews** |
-| **Output Data Flexibility** | Rigid nested JSON (breaks CSV) | 📊 **Dual format (`nested` for APIs + `tabular` for clean Excel/CSV rows)** |
-| **Seller Zhima Credit Breakdown** | Single generic badge | 🛡️ **Distinct Seller & Buyer Zhima Credit levels (1–5)** |
+| **Actor Start / Test Fee** | $0.05 – $0.10+ *(charges immediately on launch)* | 🆓 **$0.00001 (Virtually $0.00 · Zero-Risk Test Runs)** |
+| **Product Listing Price** | $0.00799 – $0.00899 / item *(~$8.00–$9.00 per 1k)* | 💰 **$0.0035 / item (Save 55%–60%!)** |
+| **Buyer Review Price** | $0.001 / review | 💰 **$0.001 / review (Best value on Apify)** |
+| **Server Compute Fees** | Billed for platform RAM & container runtime | 🆓 **$0.00 (Zero compute fees · Pure HTTP)** |
+| **Listing Extraction Depth** | Basic preview cards only (no specs, no condition) | 🚀 **Dual Modes (`summary` fast catalog vs `full` deep specs)** |
+| **Product Specifications** | ❌ Omitted / Not extracted | 💎 **Structured Key-Value dictionary (`specs` brand, model, storage, CPU)** |
+| **Physical Condition Grade** | ❌ Omitted / Not extracted | 🏷️ **Standardized grades (`全新` Brand New, `99新` Like New, `95新`)** |
+| **Full Description Text** | ❌ Missing or truncated | 📝 **Complete seller item description, disclaimers & return notes** |
+| **Bargain & Guarantee Flags** | ❌ Not available | 🛡️ **`allowBargain` & `tradeGuarantee` seller policy flags** |
+| **Excel & CSV Usability** | ⚠️ Jagged & broken (mixed seller & item rows break columns) | 📊 **Native Tabular Mode (Clean rows with seller tags for instant pivot tables)** |
+| **Inventory Status Filter** | ❌ No runtime filter (mixed active & sold) | 🎯 **`statusFilter`: Isolate `onsale` (active) vs `sold` (historical velocity)** |
+| **Buyer Review Sentiment Filter** | ❌ None (must scrape thousands of 5-star reviews) | 🔍 **`reviewFilter`: Instantly isolate disputes (`negative_only`) or photo proofs** |
+| **Buyer Review Unboxing Media** | Text only or low-res thumbnails | 📸 **Full HD buyer unboxing photos (`reviewImages`)** |
+| **Item URL Auto-Resolution** | Manual seller numeric ID required | ✅ **Auto-resolves seller from product URLs, item IDs & mobile deeplinks** |
+| **Zhima Credit Breakdown** | Single generic badge | 🛡️ **Distinct Seller & Buyer Zhima Credit levels (1–5)** |
 
-<p align="center">
+<div align="center">
+  <br>
   <a href="https://console.apify.com/actors/xma6AWAwibFiZHSqo/input">
     <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/try-it-for-free.svg" width="240" height="48" alt="Try it for Free">
   </a>
-</p>
+  <p><sub>⚡ <b>Zero-Risk Testing:</b> Test any seller with Apify's $5 free monthly credit • No upfront commitment</sub></p>
+</div>
+
+---
+
+## 💰 Transparent Pay-Per-Event (PPE) Pricing & Volume Tiers
+
+Pay strictly for the results you collect — zero expensive monthly commitments or wasted compute fees ($0.00 compute). Volume discounts are applied automatically based on your Apify subscription tier:
+
+| Chargeable Event | Event Scope | 🆓 Free Tier | 🚀 Starter Tier | 📈 Scale Tier | 🏢 Business Tier |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **`search-item`** | Product Search Results | **$0.0020** / item | **$0.0019** / item | **$0.0017** / item | **$0.0015** / item |
+| **`detail-item`** | Deep Product Specifications | **$0.0030** / item | **$0.0028** / item | **$0.0025** / item | **$0.0022** / item |
+| **`seller-item`** ⭐ | Active & Sold Shop Listings | **$0.0035** / item | **$0.0033** / item | **$0.0030** / item | **$0.0028** / item |
+| **`seller-profile`** | Store Profile & Zhima Credit | **$0.0040** / store | **$0.0038** / store | **$0.0035** / store | **$0.0032** / store |
+| **`seller-review`** | Buyer Review & Unboxing Photos | **$0.0010** / review | **$0.00095** / review | **$0.0009** / review | **$0.00085** / review |
+| **`apify-actor-start`** | Negligible Start Fee | **$0.00001** | **$0.00001** | **$0.00001** | **$0.00001** |
+
+### 📊 Monthly Yield per Apify Subscription Plan
+
+| Plan Tier | Monthly Apify Credit | Search Items Extracted | Seller Catalogs Extracted | Buyer Reviews Audited | Best For |
+| :--- | :---: | :---: | :---: | :---: | :--- |
+| 🆓 **Free** | **$5** / mo *(Free trial)* | **~2,500 items** | **~1,400 listings** | **~5,000 reviews** | Due diligence, one-off supplier checks |
+| 🚀 **Starter** | **$19** / mo | **~10,000 items** | **~5,700 listings** | **~20,000 reviews** | Resellers, shopping agents, dropshippers |
+| 📈 **Scale** | **$199** / mo | **~117,000 items** | **~66,000 listings** | **~221,000 reviews** | Growing e-commerce brands & agencies |
+| 🏢 **Business** | **$999** / mo | **~666,000 items** | **~356,000 listings** | **~1,175,000 reviews** | Enterprise procurement & ERP catalog sync |
 
 ---
 
@@ -121,7 +139,7 @@ Combine our specialized scrapers to build complete market intelligence pipelines
 | Scraper | Focus | Best For | Status |
 | :--- | :--- | :--- | :--- |
 | 🔍 **[Goofish Search & Deals Scraper](https://apify.com/unitbytes/goofish-xianyu-search-scraper?fpr=939u3w&fp_sid=gh_goofish)** | Keyword discovery, market price alerts, deals | Finding items by keyword, tracking category trends | 🟢 **Published** |
-| 🏬 **[Goofish Sellers & Reviews Scraper](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller)** | Profiles, shop inventory, buyer reviews, unboxing photos | Deep seller vetting, catalog extraction, supplier audits | 🌟 **You are here** |
+| 🏬 **[Goofish Sellers & Reviews Scraper](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_seller)** | Profiles, shop inventory, buyer reviews, unboxing photos | Deep seller vetting, catalog extraction, supplier audits | 🌟 **You are here** |
 
 ---
 
@@ -130,9 +148,9 @@ Combine our specialized scrapers to build complete market intelligence pipelines
 If you are using **Cursor**, **ChatGPT**, **Claude**, or autonomous agents, paste this snippet directly:
 
 ```text
-Apify Actor UnitBytes/goofish-xianyu-seller-scraper. Extracts complete Goofish (闲鱼 / Xianyu / Idlefish) seller intelligence, product inventory catalogs, and buyer transaction reviews. Accepts seller profile URLs, product listing URLs (resolves seller automatically), fleamarket:// mobile deeplinks, or numeric seller IDs. Supports dual output formats: nested JSON (1 record per seller for APIs) or tabular flat rows (clean spreadsheets for Excel/CSV).
+Apify Actor UnitBytes/goofish-scraper. Extracts complete Goofish (闲鱼 / Xianyu / Idlefish) seller intelligence, product inventory catalogs, and buyer transaction reviews. Accepts seller profile URLs, product listing URLs (resolves seller automatically), fleamarket:// mobile deeplinks, or numeric seller IDs. Supports dual output formats: nested JSON (1 record per seller for APIs) or tabular flat rows (clean spreadsheets for Excel/CSV).
 Call via ApifyClient:
-client.actor("unitbytes/goofish-xianyu-seller-scraper\").call(run_input={"sellerInputs":["https://www.goofish.com/personal?spm=a21ybx.item.itemHeader.1.740c3da6vQDa24&userId=2216555697343"],"includeListings":true,"includeReviews":true,"maxListings":20,"maxReviews":30,"outputFormat":"nested"})
+client.actor("unitbytes/goofish-scraper").call(run_input={"sellerInputs":["https://www.goofish.com/personal?spm=a21ybx.item.itemHeader.1.740c3da6vQDa24&userId=2216555697343"],"includeListings":true,"includeReviews":true,"maxListings":20,"maxReviews":30,"outputFormat":"nested"})
 ```
 
 ---
@@ -338,7 +356,7 @@ run_input = {
     "outputFormat": "nested"
 }
 
-run = client.actor("unitbytes/goofish-xianyu-seller-scraper\").call(run_input=run_input)
+run = client.actor("unitbytes/goofish-scraper\").call(run_input=run_input)
 
 for item in client.dataset(run["defaultDatasetId"]).iterate_items():
     print(f"Seller: {item.get('displayName')} | Zhima: {item.get('creditBadge', {}).get('rating')}")
@@ -361,7 +379,7 @@ const input = {
     outputFormat: 'nested',
 };
 
-const run = await client.actor("unitbytes/goofish-xianyu-seller-scraper\").call(input);
+const run = await client.actor("unitbytes/goofish-scraper").call(input);
 const { items } = await client.dataset(run.defaultDatasetId).listItems();
 
 console.log(`Extracted ${items.length} seller profiles!`);
@@ -381,7 +399,7 @@ Connect this scraper directly to **Claude Code**, **Claude Desktop**, **Cursor**
   "mcpServers": {
     "apify": {
       "type": "http",
-      "url": "https://mcp.apify.com/?tools=actors,docs,unitbytes/goofish-xianyu-seller-scraper"
+      "url": "https://mcp.apify.com/?tools=actors,docs,unitbytes/goofish-scraper"
     }
   }
 }
@@ -394,9 +412,9 @@ Connect this scraper directly to **Claude Code**, **Claude Desktop**, **Cursor**
 
 Open a ready-to-run prompt about Goofish Xianyu Seller & Reviews Scraper in your favorite AI assistant:
 
-- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Goofish%20Seller%20%26%20Reviews%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-xianyu-seller-scraper%29%2C%20walk%20me%20through%20vetting%20a%20cross-border%20supplier%27s%20unboxing%20reviews%20and%20sold%20history.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
-- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Goofish%20Seller%20%26%20Reviews%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-xianyu-seller-scraper%29%2C%20walk%20me%20through%20vetting%20a%20cross-border%20supplier%27s%20unboxing%20reviews%20and%20sold%20history.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
-- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Goofish%20Seller%20%26%20Reviews%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-xianyu-seller-scraper%29%2C%20walk%20me%20through%20vetting%20a%20cross-border%20supplier%27s%20unboxing%20reviews%20and%20sold%20history.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Goofish%20Seller%20%26%20Reviews%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-scraper%29%2C%20walk%20me%20through%20vetting%20a%20cross-border%20supplier%27s%20unboxing%20reviews%20and%20sold%20history.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Goofish%20Seller%20%26%20Reviews%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-scraper%29%2C%20walk%20me%20through%20vetting%20a%20cross-border%20supplier%27s%20unboxing%20reviews%20and%20sold%20history.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Goofish%20Seller%20%26%20Reviews%20Scraper%20on%20Apify%20%28https%3A//apify.com/unitbytes/goofish-scraper%29%2C%20walk%20me%20through%20vetting%20a%20cross-border%20supplier%27s%20unboxing%20reviews%20and%20sold%20history.%20Show%20me%20the%20input%20JSON%20and%20Python%20code.)
 
 ---
 
@@ -425,7 +443,7 @@ Set `"outputFormat": "tabular"`. This produces flat, spreadsheet-ready rows wher
 
 ## 📄 License & Terms
 
-This repository contains documentation, visual assets, and integration guides for the **Goofish Sellers & Reviews Scraper** hosted on the [Apify Platform](https://apify.com/unitbytes/goofish-xianyu-seller-scraper?fpr=939u3w&fp_sid=gh_goofish_seller). Distributed under the MIT License.
+This repository contains documentation, visual assets, and integration guides for the **Goofish Sellers & Reviews Scraper** hosted on the [Apify Platform](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_seller). Distributed under the MIT License.
 
 ---
 
@@ -433,4 +451,4 @@ This repository contains documentation, visual assets, and integration guides fo
 Need custom web data feeds, high-frequency scheduled runs, private cluster deployments, or dedicated SLAs?
 - 📧 **Direct Email**: [contact@unitbytes.com](mailto:contact@unitbytes.com)
 - 🌐 **Enterprise Platform**: [https://unitbytes.com](https://unitbytes.com)
-- 💡 **Data Engine Specs & Live Docs**: [https://unitbytes.com/actors/goofish-xianyu-seller-scraper/](https://unitbytes.com/actors/goofish-xianyu-seller-scraper/)
+- 💡 **Data Engine Specs & Live Docs**: [https://unitbytes.com/actors/goofish-scraper/](https://unitbytes.com/actors/goofish-scraper/)
