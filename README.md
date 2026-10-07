@@ -356,7 +356,7 @@ run_input = {
     "outputFormat": "nested"
 }
 
-run = client.actor("unitbytes/goofish-scraper\").call(run_input=run_input)
+run = client.actor("unitbytes/goofish-scraper").call(run_input=run_input)
 
 for item in client.dataset(run["defaultDatasetId"]).iterate_items():
     print(f"Seller: {item.get('displayName')} | Zhima: {item.get('creditBadge', {}).get('rating')}")
@@ -452,3 +452,15 @@ Need custom web data feeds, high-frequency scheduled runs, private cluster deplo
 - 📧 **Direct Email**: [contact@unitbytes.com](mailto:contact@unitbytes.com)
 - 🌐 **Enterprise Platform**: [https://unitbytes.com](https://unitbytes.com)
 - 💡 **Data Engine Specs & Live Docs**: [https://unitbytes.com/actors/goofish-scraper/](https://unitbytes.com/actors/goofish-scraper/)
+
+---
+
+## ⚖️ Disclaimer
+
+This actor is an independent, third-party data extraction tool developed by **UnitBytes** for market research, price benchmarking, academic analysis, and e-commerce business intelligence.
+
+- **Independent Tool:** This software is not affiliated with, authorized, maintained, sponsored, or endorsed by Goofish, Xianyu (闲鱼), Taobao, Alibaba Group, or any of their affiliates or subsidiaries.
+- **Public Data Only:** This actor extracts only publicly accessible data available on the open web. It does not bypass private access restrictions or access authenticated personal account data.
+- **Compliance & Fair Use:** Users are solely responsible for ensuring that their data collection activities comply with applicable local laws, regulations, and third-party terms of service. The developers assume no liability for misuse, policy violations, or actions taken based on data collected using this tool.
+- **Trademarks:** "Goofish", "Xianyu", "闲鱼", "Taobao", and "Alibaba" are registered trademarks of Alibaba Group Holding Limited and/or their respective trademark holders. All trademarks, logos, and brand names referenced are the property of their respective owners and are used purely for identification and informational purposes.
+
