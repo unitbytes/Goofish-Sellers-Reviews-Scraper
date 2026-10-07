@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Available on Apify](https://img.shields.io/badge/Available_on-Apify-28B52A?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper)
-[![Bookmark on Apify](https://img.shields.io/badge/Apify%20Store-⭐%20Bookmark%20Actor-orange?style=for-the-badge&logo=apify)](https://apify.com/unitbytes/goofish-scraper)
+[![Bookmark on Apify](https://img.shields.io/badge/Apify%20Store-%E2%AD%90%20Bookmark%20Actor-orange?style=for-the-badge&logo=apify)](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](#)
 [![Success Rate](https://img.shields.io/badge/Success_Rate-99%25+-brightgreen?style=for-the-badge)](#)
 [![Zero Login](https://img.shields.io/badge/Account_Required-None-blue?style=for-the-badge)](#)
@@ -12,7 +12,7 @@
 
 **The most comprehensive, reliable, and cost-effective Goofish & Idlefish (闲鱼 / Xianyu) all-in-one scraper on Apify. Search live product listings, audit seller store credentials, extract Zhima Credit (芝麻信用) ratings, scrape full active & sold inventory catalogs, and analyze buyer reviews with real unboxing photos — 100% autonomously with Zero Login & Zero Chinese Phone Number Required.**
 
-[**🚀 Try it Live on Apify**](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper) • [**⭐ Bookmark Actor**](https://apify.com/unitbytes/goofish-scraper) • [**📖 Documentation**](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper) • [**💬 Support**](https://apify.com/unitbytes/goofish-scraper/issues)
+[**🚀 Try it Live on Apify**](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper) • [**⭐ Bookmark Actor**](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper) • [**📖 Documentation**](https://apify.com/unitbytes/goofish-scraper?fpr=939u3w&fp_sid=gh_goofish_scraper) • [**💬 Support**](https://apify.com/unitbytes/goofish-scraper/issues)
 
 </div>
 
@@ -452,7 +452,7 @@ This repository contains documentation, visual assets, and integration guides fo
 Need custom web data feeds, high-frequency scheduled runs, private cluster deployments, or dedicated SLAs?
 - 📧 **Direct Email**: [contact@unitbytes.com](mailto:contact@unitbytes.com)
 - 🌐 **Enterprise Platform**: [https://unitbytes.com](https://unitbytes.com)
-- 💡 **Data Engine Specs & Live Docs**: [https://unitbytes.com/actors/goofish-scraper/](https://unitbytes.com/actors/goofish-scraper/)
+- 💡 **Data Engine Specs & Live Docs**: [https://unitbytes.com/actors/goofish-xianyu-seller-scraper/](https://unitbytes.com/actors/goofish-xianyu-seller-scraper/)
 
 ---
 
