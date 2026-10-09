@@ -20,13 +20,13 @@
 
 <p align="center">
   <a href="https://console.apify.com/actors/xma6AWAwibFiZHSqo/input" target="_blank">
-    <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/banners/unitbytes-goofish-xianyu-seller-inventory-reviews-scraper-banner.jpg" alt="Goofish Xianyu Seller & Reviews Scraper by UnitBytes" width="100%" />
+    <img src="https://raw.githubusercontent.com/unitbytes/.github/main/assets/banners/unitbytes-goofish-xianyu-seller-inventory-reviews-scraper-banner.jpg" alt="Goofish Xianyu Seller & Reviews Scraper by UnitBytes" width="100%" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://console.apify.com/actors/xma6AWAwibFiZHSqo/input" target="_blank">
-    <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/try-it-for-free.svg" width="240" height="48" alt="Try it for Free">
+    <img src="https://raw.githubusercontent.com/unitbytes/.github/main/assets/try-it-for-free.svg" width="240" height="48" alt="Try it for Free">
   </a>
   <br>
   <sub>⚡ <b>1-Click Free Trial:</b> Test live queries using Apify's $5 free monthly credit • No credit card required</sub>
@@ -102,7 +102,7 @@ Unlike alternative Goofish scrapers that only extract shallow preview cards with
 <div align="center">
   <br>
   <a href="https://console.apify.com/actors/xma6AWAwibFiZHSqo/input">
-    <img src="https://raw.githubusercontent.com/unitbytes-com/.github/main/assets/try-it-for-free.svg" width="240" height="48" alt="Try it for Free">
+    <img src="https://raw.githubusercontent.com/unitbytes/.github/main/assets/try-it-for-free.svg" width="240" height="48" alt="Try it for Free">
   </a>
   <p><sub>⚡ <b>Zero-Risk Testing:</b> Test any seller with Apify's $5 free monthly credit • No upfront commitment</sub></p>
 </div>
@@ -452,7 +452,7 @@ This repository contains documentation, visual assets, and integration guides fo
 Need custom web data feeds, high-frequency scheduled runs, private cluster deployments, or dedicated SLAs?
 - 📧 **Direct Email**: [contact@unitbytes.com](mailto:contact@unitbytes.com)
 - 🌐 **Enterprise Platform**: [https://unitbytes.com](https://unitbytes.com)
-- 💡 **Data Engine Specs & Live Docs**: [https://unitbytes.com/actors/goofish-xianyu-seller-scraper/](https://unitbytes.com/actors/goofish-xianyu-seller-scraper/)
+- 💡 **Data Engine Specs & Live Docs**: [https://unitbytes.com/actors/goofish-scraper/](https://unitbytes.com/actors/goofish-scraper/)
 
 ---
 
